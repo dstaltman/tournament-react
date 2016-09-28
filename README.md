@@ -5,3 +5,7 @@ This is a tournament kinda thing built in react. It's for remembering who people
 It's probably worse than you think.
 
 In fact, it does nothing right now.
+
+
+## To run dev server
+npm run dev
